@@ -20,10 +20,7 @@ import java.util.logging.SimpleFormatter;
 public class AgregarCita extends JFrame implements ActionListener {
     //Atributos
     JLabel titulo,pac, esp, med, fecha, horaDisp, dia, disp;
-    JComboBox comboPac;
-    JComboBox comboEsp;
-    JComboBox comboMed;
-    JComboBox comboHora;
+    JComboBox comboPac,comboEsp,comboMed,comboHora;
     JTextField txtFecha;
     JButton btnaAniadir, btnSalir, btnEditar;
     File cita = new File("Imagenes/Cita.txt");
