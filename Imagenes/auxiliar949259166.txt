@@ -1,0 +1,11 @@
+Alan,Lopez,671008765,30,40,55,AB+
+Manuela,Perez,6771008765,86,51,160,O-
+Angel,Valente,6771008765,100,180,24,A-
+Alan,Lopez,671008765,30,40,55,AB+
+Manuela,Lopez,6771008765,86,160,51,O-
+Angel,Valente,6771008765,100,180,24,A-
+Alan,Lopez,671008765,30,40,55,AB+
+Manuela,Lopez,6771008765,86,160,51,O-
+Angel,Valente,6771008765,100,180,24,A-
+1,Angel Valente,Lopez Bustamante,Ginecologia
+2,Gerardo,Holis,Nutricion
