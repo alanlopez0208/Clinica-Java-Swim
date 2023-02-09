@@ -162,6 +162,7 @@ public class VentanaPrincipal extends JFrame implements ActionListener{
     }
     public static void main(String[] args) {
         VentanaPrincipal ventana= new VentanaPrincipal();
+        JPanel panelsito;
     }
 
     class FondoPanel extends JPanel{
